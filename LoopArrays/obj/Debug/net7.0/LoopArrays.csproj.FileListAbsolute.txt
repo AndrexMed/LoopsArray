@@ -1,0 +1,15 @@
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\bin\Debug\net7.0\LoopArrays.exe
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\bin\Debug\net7.0\LoopArrays.deps.json
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\bin\Debug\net7.0\LoopArrays.runtimeconfig.json
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\bin\Debug\net7.0\LoopArrays.dll
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\bin\Debug\net7.0\LoopArrays.pdb
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\LoopArrays.csproj.AssemblyReference.cache
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\LoopArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\LoopArrays.AssemblyInfoInputs.cache
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\LoopArrays.AssemblyInfo.cs
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\LoopArrays.csproj.CoreCompileInputs.cache
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\LoopArrays.dll
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\refint\LoopArrays.dll
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\LoopArrays.pdb
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\LoopArrays.genruntimeconfig.cache
+C:\Users\galzate\source\repos\LoopArrays\LoopArrays\obj\Debug\net7.0\ref\LoopArrays.dll
